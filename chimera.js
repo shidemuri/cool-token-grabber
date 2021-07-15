@@ -1,5 +1,3 @@
-//npm i sync-request
-
 const id = `o id do seu webhook`
 const tokencoisado = `o token do seu webhook`
 
