@@ -3,6 +3,7 @@ Um token grabber feito com node
 
 ## NÃO USA ISSO NO AMIGUINHO PQ É CONTRA AS [GUIDELINES](https://discord.com/guidelines) PORRA
 
+> 5. Não envie vírus ou malware para outras pessoas, nem tente aplicar golpes, hackear ou fazer DDoS contra elas.
 > 13. Não promova, distribua ou forneça acesso a conteúdo que envolva hackeamento, crackeamento ou distribuição de softwares piratas ou contas roubadas.
 
 ## Como usar
